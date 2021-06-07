@@ -19,4 +19,4 @@ class TestCalculatorApp:
 
     def test_divide(self):
         assert 4 == calculator.divide(8, 2)
-        assert 2 == calculator.divide(34, 17)
+        assert 2 == calculator.divide(34, 17
